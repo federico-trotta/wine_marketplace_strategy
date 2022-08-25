@@ -9,5 +9,7 @@ The idea was to create a marketplace with the bottles' prices in a certain range
 
 So, I was able to calculate the initial investment, in terms of the total price for all the bottles.
 
-If you are not "a technician" or if you just want to understand the main concepts without reading the code, you can take a look at the PDF I created.
-[here](https://github.com/federico-trotta/wine_marketplace_strategy/blob/master/PDF/ITALIAN/Progetto%20Wine%20Marketplace%20Strategy.pdf) you find the italian version
+## The main ideas behind this project
+If you are not "a technician" or if you just want to understand the main concepts without reading the code, you can take a look at the PDF I created:
+- [here](https://github.com/federico-trotta/wine_marketplace_strategy/blob/master/PDF/ITALIAN/Progetto%20Wine%20Marketplace%20Strategy.pdf) you find the Italian version
+- [here](https://github.com/federico-trotta/wine_marketplace_strategy/blob/master/PDF/ENGLISH/Wine%20Marketplace%20Strategy.pdf) you find the English version
